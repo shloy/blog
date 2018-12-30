@@ -1,2 +1,2 @@
 # blog
-this is theblog and comment system
+this is a blog and comment system
